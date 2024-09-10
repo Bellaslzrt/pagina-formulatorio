@@ -1,0 +1,130 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+ fieldset{
+    height: 600px;
+    width: 400px;
+    border: 1px solid rgb(228, 224, 224);
+    box-shadow: 5px 10px 20px grey;
+    margin-left: 450px;
+}
+ 
+h1{
+    color: rgba(11, 11, 211, 0.69);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 250%;
+    padding-top: 2%;
+    margin-left: 8%;
+}
+.x{
+    height: 30px;
+    width: 30px;
+    margin-left: 90%;
+    font-size: 23px;
+    color: gray;
+    background-color: white;
+    border: none;
+    margin-top: 10px;  
+}
+.a{
+height: 50px;
+width: 330px;
+margin-left: 8%;
+border: none;
+background-color: lightgray;
+border-radius: 2px;
+}
+.digite{
+color: gray;
+margin-left: 8%;
+margin-bottom: 10px; 
+margin-top: 8px;
+} 
+.b{
+    height: 50px;
+    width: 330px;
+    margin-left: 8%;
+    margin-top: 8%;
+    border: none;
+    background-color: lightgrey;
+    border-radius: 2px
+}
+#secret{
+    color: gray;
+    margin-left: 8%;
+    margin-top: -100px; 
+} 
+#csecret{
+    color: gray;
+    margin-left: 8%;
+    margin-top: -100px; 
+} 
+.entrar{
+    height: 50px;
+    width: 330px;
+    margin-left: 8%;
+    font-size: 18px;
+    color:white;
+    background-color: rgb(33, 33, 94);
+    border: none;
+    margin-top: 13px;
+    border-radius: 2px;   
+}
+ #senha{
+    margin-top:5px;
+ }
+ #Exibir{
+   margin-left: 260px;
+   margin-top: 5px;
+ }
+
+ #criar{
+    height: 2   0px;
+    width: 330px;
+    margin-left: 8%;
+    font-size: 18px;
+    color:rgb(33, 33, 94);
+    border: none;
+    margin-top: 2%;   
+    background-color: white;
+ }
+ #Entrar{
+    height: 20px;
+    width: 330px;
+    margin-left: 8%;
+    font-size: 18px;
+    color:rgb(33, 33, 94);
+    border: none;
+    margin-top: 2%;   
+    background-color: white;
+ }
+#Npossui{
+    height: 50px;
+    width: 330px;
+    margin-left: 8%;
+    font-size: 18px;
+    color:gray;
+    border: none;
+    margin-top: 10%;   
+    background-color: white;
+}
+#possui{
+    height: 50px;
+    width: 330px;
+    margin-left: 8%;
+    font-size: 18px;
+    color:gray;
+    border: none;
+    margin-top: 5%;   
+    background-color: white; 
+}
+.Cadastrar{
+    height: 50px;
+    width: 330px;
+    margin-left: 8%;
+    font-size: 18px;
+    color:white;
+    border: none;
+    margin-top: 6%;   
+    background-color: rgb(33, 33, 94);
+ }
